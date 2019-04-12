@@ -1,8 +1,11 @@
 # DeepLearning
 
-������Ķ��ʼ�
+花书的阅读笔记
 
-Deep_Learning.pdf�����İ棬���Ķ���ע
-DeepLearningBook_cn.pdf�����İ棬����ע
-deeplearningbook/ ��Ӣ�İ�
-PPT/ ��������ÿһ�½ڵ�PPT�ܽ�
+Deep_Learning.pdf：中文版，带阅读批注
+
+DeepLearningBook_cn.pdf：中文版，无批注
+
+deeplearningbook/ ：英文版
+
+PPT/ ：里面是每一章节的PPT总结
